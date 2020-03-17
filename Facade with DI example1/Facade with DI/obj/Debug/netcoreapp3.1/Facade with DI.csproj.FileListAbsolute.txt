@@ -1,0 +1,14 @@
+E:\programlama\csharp\Facade with DI\Facade with DI\bin\Debug\netcoreapp3.1\Facade with DI.exe
+E:\programlama\csharp\Facade with DI\Facade with DI\obj\Debug\netcoreapp3.1\Facade with DI.csprojAssemblyReference.cache
+E:\programlama\csharp\Facade with DI\Facade with DI\obj\Debug\netcoreapp3.1\Facade with DI.AssemblyInfoInputs.cache
+E:\programlama\csharp\Facade with DI\Facade with DI\obj\Debug\netcoreapp3.1\Facade with DI.AssemblyInfo.cs
+E:\programlama\csharp\Facade with DI\Facade with DI\bin\Debug\netcoreapp3.1\Facade with DI.deps.json
+E:\programlama\csharp\Facade with DI\Facade with DI\bin\Debug\netcoreapp3.1\Facade with DI.runtimeconfig.json
+E:\programlama\csharp\Facade with DI\Facade with DI\bin\Debug\netcoreapp3.1\Facade with DI.runtimeconfig.dev.json
+E:\programlama\csharp\Facade with DI\Facade with DI\bin\Debug\netcoreapp3.1\Facade with DI.dll
+E:\programlama\csharp\Facade with DI\Facade with DI\bin\Debug\netcoreapp3.1\Facade with DI.pdb
+E:\programlama\csharp\Facade with DI\Facade with DI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\programlama\csharp\Facade with DI\Facade with DI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\programlama\csharp\Facade with DI\Facade with DI\obj\Debug\netcoreapp3.1\Facade with DI.csproj.CopyComplete
+E:\programlama\csharp\Facade with DI\Facade with DI\obj\Debug\netcoreapp3.1\Facade with DI.dll
+E:\programlama\csharp\Facade with DI\Facade with DI\obj\Debug\netcoreapp3.1\Facade with DI.pdb
