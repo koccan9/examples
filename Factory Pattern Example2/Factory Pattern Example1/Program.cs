@@ -24,11 +24,11 @@ namespace Factory_Pattern_Example1      //Creation OOP pattern.Factory Pattern
     {
         Triangle, Square
     }
-    interface IShapeFactory
+    interface IAbstractShapeFactory
     {
         IShape GetShape(ShapeType st);
     }
-    class ConcreteShapeFactory : IShapeFactory
+    class ConcreteShapeFactory : IAbstractShapeFactory
     {
         public IShape GetShape(ShapeType st)
         {
@@ -41,7 +41,7 @@ namespace Factory_Pattern_Example1      //Creation OOP pattern.Factory Pattern
     }
     static class FactoryTester//static test functions
     {
-        private static IShapeFactory _shapeFactory;
+        private static IAbstractShapeFactory _shapeFactory;
         static FactoryTester()//static constructor
         {
             _shapeFactory = new ConcreteShapeFactory();
