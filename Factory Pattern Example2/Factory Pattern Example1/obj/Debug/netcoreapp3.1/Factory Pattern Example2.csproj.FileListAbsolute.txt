@@ -1,0 +1,14 @@
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\bin\Debug\netcoreapp3.1\Factory Pattern Example2.exe
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\obj\Debug\netcoreapp3.1\Factory Pattern Example2.AssemblyInfoInputs.cache
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\obj\Debug\netcoreapp3.1\Factory Pattern Example2.AssemblyInfo.cs
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\bin\Debug\netcoreapp3.1\Factory Pattern Example2.deps.json
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\bin\Debug\netcoreapp3.1\Factory Pattern Example2.runtimeconfig.json
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\bin\Debug\netcoreapp3.1\Factory Pattern Example2.runtimeconfig.dev.json
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\bin\Debug\netcoreapp3.1\Factory Pattern Example2.dll
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\bin\Debug\netcoreapp3.1\Factory Pattern Example2.pdb
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\obj\Debug\netcoreapp3.1\Factory Pattern Example2.csprojAssemblyReference.cache
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\obj\Debug\netcoreapp3.1\Factory Pattern Example2.csproj.CopyComplete
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\obj\Debug\netcoreapp3.1\Factory Pattern Example2.dll
+E:\programlama\csharp\Factory Pattern Example2\Factory Pattern Example1\obj\Debug\netcoreapp3.1\Factory Pattern Example2.pdb
