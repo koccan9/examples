@@ -1,0 +1,11 @@
+E:\programlama\csharp\Observer Pattern Getter Setter Example 1\Observer Pattern Getter Setter Example 1\bin\Release\netcoreapp3.1\Observer Pattern Getter Setter Example 1.exe
+E:\programlama\csharp\Observer Pattern Getter Setter Example 1\Observer Pattern Getter Setter Example 1\bin\Release\netcoreapp3.1\Observer Pattern Getter Setter Example 1.deps.json
+E:\programlama\csharp\Observer Pattern Getter Setter Example 1\Observer Pattern Getter Setter Example 1\bin\Release\netcoreapp3.1\Observer Pattern Getter Setter Example 1.runtimeconfig.json
+E:\programlama\csharp\Observer Pattern Getter Setter Example 1\Observer Pattern Getter Setter Example 1\bin\Release\netcoreapp3.1\Observer Pattern Getter Setter Example 1.runtimeconfig.dev.json
+E:\programlama\csharp\Observer Pattern Getter Setter Example 1\Observer Pattern Getter Setter Example 1\bin\Release\netcoreapp3.1\Observer Pattern Getter Setter Example 1.dll
+E:\programlama\csharp\Observer Pattern Getter Setter Example 1\Observer Pattern Getter Setter Example 1\bin\Release\netcoreapp3.1\Observer Pattern Getter Setter Example 1.pdb
+E:\programlama\csharp\Observer Pattern Getter Setter Example 1\Observer Pattern Getter Setter Example 1\obj\Release\netcoreapp3.1\Observer Pattern Getter Setter Example 1.csprojAssemblyReference.cache
+E:\programlama\csharp\Observer Pattern Getter Setter Example 1\Observer Pattern Getter Setter Example 1\obj\Release\netcoreapp3.1\Observer Pattern Getter Setter Example 1.AssemblyInfoInputs.cache
+E:\programlama\csharp\Observer Pattern Getter Setter Example 1\Observer Pattern Getter Setter Example 1\obj\Release\netcoreapp3.1\Observer Pattern Getter Setter Example 1.AssemblyInfo.cs
+E:\programlama\csharp\Observer Pattern Getter Setter Example 1\Observer Pattern Getter Setter Example 1\obj\Release\netcoreapp3.1\Observer Pattern Getter Setter Example 1.dll
+E:\programlama\csharp\Observer Pattern Getter Setter Example 1\Observer Pattern Getter Setter Example 1\obj\Release\netcoreapp3.1\Observer Pattern Getter Setter Example 1.pdb
