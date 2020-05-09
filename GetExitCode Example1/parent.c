@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <Windows.h>
+#include <stdio.h>//https://docs.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-getexitcodeprocess
+#include <Windows.h>//https://docs.microsoft.com/en-us/windows/win32/procthread/creating-processes
 int main()//parent process
 {
     STARTUPINFO si;
