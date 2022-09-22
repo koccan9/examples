@@ -1,0 +1,15 @@
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\bin\Debug\net6.0\dictionary attack code basic.exe
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\bin\Debug\net6.0\dictionary attack code basic.deps.json
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\bin\Debug\net6.0\dictionary attack code basic.runtimeconfig.json
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\bin\Debug\net6.0\dictionary attack code basic.dll
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\bin\Debug\net6.0\dictionary attack code basic.pdb
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\obj\Debug\net6.0\dictionary attack code basic.csproj.AssemblyReference.cache
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\obj\Debug\net6.0\dictionary attack code basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\obj\Debug\net6.0\dictionary attack code basic.AssemblyInfoInputs.cache
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\obj\Debug\net6.0\dictionary attack code basic.AssemblyInfo.cs
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\obj\Debug\net6.0\dictionary attack code basic.csproj.CoreCompileInputs.cache
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\obj\Debug\net6.0\dictionary attack code basic.dll
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\obj\Debug\net6.0\refint\dictionary attack code basic.dll
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\obj\Debug\net6.0\dictionary attack code basic.pdb
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\obj\Debug\net6.0\dictionary attack code basic.genruntimeconfig.cache
+E:\programlama\csharp\dictionary attack code basic\dictionary attack code basic\obj\Debug\net6.0\ref\dictionary attack code basic.dll
