@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "toQRd4Lus6WjUEWM7+2WQa0jp81fyRF5S7/hkgVKb0Gm6n9DIThuQ4BsgSzuBQmQcRqNkENx7kob/4PYCC3iAQ==",
+  "dgSpecHash": "8jQ+F8J36QHavi7JFYquuPcjZd7OyqVY5nFVEQtM4N395LNPYpS1v8zb3bv1BQ09skPo8xPMjIqcWjvOjZb31g==",
   "success": true,
-  "projectFilePath": "E:\\programlama\\csharp\\GetAsyncKeyState Server\\GetAsyncKeyState Server\\GetAsyncKeyState Server.csproj",
+  "projectFilePath": "E:\\githubs\\examples\\Very Simple Keylogger\\GetAsyncKeyState Server\\GetAsyncKeyState Server\\GetAsyncKeyState Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

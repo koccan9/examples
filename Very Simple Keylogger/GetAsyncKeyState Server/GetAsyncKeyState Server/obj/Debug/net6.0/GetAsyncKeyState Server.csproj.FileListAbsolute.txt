@@ -13,3 +13,18 @@ E:\programlama\csharp\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\
 E:\programlama\csharp\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\net6.0\GetAsyncKeyState Server.pdb
 E:\programlama\csharp\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\net6.0\GetAsyncKeyState Server.genruntimeconfig.cache
 E:\programlama\csharp\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\net6.0\ref\GetAsyncKeyState Server.dll
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\bin\Debug\net6.0\GetAsyncKeyState Server.exe
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\bin\Debug\net6.0\GetAsyncKeyState Server.deps.json
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\bin\Debug\net6.0\GetAsyncKeyState Server.runtimeconfig.json
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\bin\Debug\net6.0\GetAsyncKeyState Server.dll
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\bin\Debug\net6.0\GetAsyncKeyState Server.pdb
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\net6.0\GetAsyncKeyState Server.csproj.AssemblyReference.cache
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\net6.0\GetAsyncKeyState Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\net6.0\GetAsyncKeyState Server.AssemblyInfoInputs.cache
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\net6.0\GetAsyncKeyState Server.AssemblyInfo.cs
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\net6.0\GetAsyncKeyState Server.csproj.CoreCompileInputs.cache
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\net6.0\GetAsyncKeyState Server.dll
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\net6.0\refint\GetAsyncKeyState Server.dll
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\net6.0\GetAsyncKeyState Server.pdb
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\net6.0\GetAsyncKeyState Server.genruntimeconfig.cache
+E:\githubs\examples\Very Simple Keylogger\GetAsyncKeyState Server\GetAsyncKeyState Server\obj\Debug\net6.0\ref\GetAsyncKeyState Server.dll

