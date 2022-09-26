@@ -15,3 +15,20 @@ E:\programlama\csharp\Binder Example1\Binder Example1\obj\Debug\net6.0\refint\Bi
 E:\programlama\csharp\Binder Example1\Binder Example1\obj\Debug\net6.0\Binder Example1.pdb
 E:\programlama\csharp\Binder Example1\Binder Example1\obj\Debug\net6.0\Binder Example1.genruntimeconfig.cache
 E:\programlama\csharp\Binder Example1\Binder Example1\obj\Debug\net6.0\ref\Binder Example1.dll
+E:\githubs\examples\Binder Example1\Binder Example1\bin\Debug\net6.0\Binder Example1.exe
+E:\githubs\examples\Binder Example1\Binder Example1\bin\Debug\net6.0\Binder Example1.deps.json
+E:\githubs\examples\Binder Example1\Binder Example1\bin\Debug\net6.0\Binder Example1.runtimeconfig.json
+E:\githubs\examples\Binder Example1\Binder Example1\bin\Debug\net6.0\Binder Example1.dll
+E:\githubs\examples\Binder Example1\Binder Example1\bin\Debug\net6.0\Binder Example1.pdb
+E:\githubs\examples\Binder Example1\Binder Example1\obj\Debug\net6.0\Binder Example1.csproj.AssemblyReference.cache
+E:\githubs\examples\Binder Example1\Binder Example1\obj\Debug\net6.0\Binder_Example1.Resource1.resources
+E:\githubs\examples\Binder Example1\Binder Example1\obj\Debug\net6.0\Binder Example1.csproj.GenerateResource.cache
+E:\githubs\examples\Binder Example1\Binder Example1\obj\Debug\net6.0\Binder Example1.GeneratedMSBuildEditorConfig.editorconfig
+E:\githubs\examples\Binder Example1\Binder Example1\obj\Debug\net6.0\Binder Example1.AssemblyInfoInputs.cache
+E:\githubs\examples\Binder Example1\Binder Example1\obj\Debug\net6.0\Binder Example1.AssemblyInfo.cs
+E:\githubs\examples\Binder Example1\Binder Example1\obj\Debug\net6.0\Binder Example1.csproj.CoreCompileInputs.cache
+E:\githubs\examples\Binder Example1\Binder Example1\obj\Debug\net6.0\Binder Example1.dll
+E:\githubs\examples\Binder Example1\Binder Example1\obj\Debug\net6.0\refint\Binder Example1.dll
+E:\githubs\examples\Binder Example1\Binder Example1\obj\Debug\net6.0\Binder Example1.pdb
+E:\githubs\examples\Binder Example1\Binder Example1\obj\Debug\net6.0\Binder Example1.genruntimeconfig.cache
+E:\githubs\examples\Binder Example1\Binder Example1\obj\Debug\net6.0\ref\Binder Example1.dll

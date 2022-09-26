@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\programlama\\csharp\\Binder Example1\\Binder Example1\\Binder Example1.csproj": {}
+    "E:\\githubs\\examples\\Binder Example1\\Binder Example1\\Binder Example1.csproj": {}
   },
   "projects": {
-    "E:\\programlama\\csharp\\Binder Example1\\Binder Example1\\Binder Example1.csproj": {
+    "E:\\githubs\\examples\\Binder Example1\\Binder Example1\\Binder Example1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\programlama\\csharp\\Binder Example1\\Binder Example1\\Binder Example1.csproj",
+        "projectUniqueName": "E:\\githubs\\examples\\Binder Example1\\Binder Example1\\Binder Example1.csproj",
         "projectName": "Binder Example1",
-        "projectPath": "E:\\programlama\\csharp\\Binder Example1\\Binder Example1\\Binder Example1.csproj",
+        "projectPath": "E:\\githubs\\examples\\Binder Example1\\Binder Example1\\Binder Example1.csproj",
         "packagesPath": "C:\\Users\\takanik\\.nuget\\packages\\",
-        "outputPath": "E:\\programlama\\csharp\\Binder Example1\\Binder Example1\\obj\\",
+        "outputPath": "E:\\githubs\\examples\\Binder Example1\\Binder Example1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

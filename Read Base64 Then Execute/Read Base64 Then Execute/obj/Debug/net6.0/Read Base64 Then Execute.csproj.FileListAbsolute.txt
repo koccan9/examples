@@ -1,0 +1,15 @@
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\bin\Debug\net6.0\Read Base64 Then Execute.exe
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\bin\Debug\net6.0\Read Base64 Then Execute.deps.json
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\bin\Debug\net6.0\Read Base64 Then Execute.runtimeconfig.json
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\bin\Debug\net6.0\Read Base64 Then Execute.dll
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\bin\Debug\net6.0\Read Base64 Then Execute.pdb
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\obj\Debug\net6.0\Read Base64 Then Execute.csproj.AssemblyReference.cache
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\obj\Debug\net6.0\Read Base64 Then Execute.GeneratedMSBuildEditorConfig.editorconfig
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\obj\Debug\net6.0\Read Base64 Then Execute.AssemblyInfoInputs.cache
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\obj\Debug\net6.0\Read Base64 Then Execute.AssemblyInfo.cs
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\obj\Debug\net6.0\Read Base64 Then Execute.csproj.CoreCompileInputs.cache
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\obj\Debug\net6.0\Read Base64 Then Execute.dll
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\obj\Debug\net6.0\refint\Read Base64 Then Execute.dll
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\obj\Debug\net6.0\Read Base64 Then Execute.pdb
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\obj\Debug\net6.0\Read Base64 Then Execute.genruntimeconfig.cache
+E:\programlama\csharp\Read Base64 Then Execute\Read Base64 Then Execute\obj\Debug\net6.0\ref\Read Base64 Then Execute.dll

@@ -1,0 +1,15 @@
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\bin\Debug\net6.0\Write base64.exe
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\bin\Debug\net6.0\Write base64.deps.json
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\bin\Debug\net6.0\Write base64.runtimeconfig.json
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\bin\Debug\net6.0\Write base64.dll
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\bin\Debug\net6.0\Write base64.pdb
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\obj\Debug\net6.0\Write base64.csproj.AssemblyReference.cache
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\obj\Debug\net6.0\Write base64.GeneratedMSBuildEditorConfig.editorconfig
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\obj\Debug\net6.0\Write base64.AssemblyInfoInputs.cache
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\obj\Debug\net6.0\Write base64.AssemblyInfo.cs
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\obj\Debug\net6.0\Write base64.csproj.CoreCompileInputs.cache
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\obj\Debug\net6.0\Write base64.dll
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\obj\Debug\net6.0\refint\Write base64.dll
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\obj\Debug\net6.0\Write base64.pdb
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\obj\Debug\net6.0\Write base64.genruntimeconfig.cache
+E:\programlama\csharp\Read Base64 Then Execute\Write base64\obj\Debug\net6.0\ref\Write base64.dll
