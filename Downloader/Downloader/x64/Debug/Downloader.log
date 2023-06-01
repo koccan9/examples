@@ -1,8 +1,0 @@
-﻿  Source.c
-E:\programlama\cplusplus\Downloader\Downloader\Source.c(16,25): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
-E:\programlama\cplusplus\Downloader\Downloader\Source.c(16,21): warning C4024: 'CreateThread': different types for formal and actual parameter 2
-E:\programlama\cplusplus\Downloader\Downloader\Source.c(16,33): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'LPTHREAD_START_ROUTINE'
-E:\programlama\cplusplus\Downloader\Downloader\Source.c(16,33): warning C4133: 'function': incompatible types - from 'void (__cdecl *)()' to 'LPTHREAD_START_ROUTINE'
-E:\programlama\cplusplus\Downloader\Downloader\Source.c(16,45): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
-E:\programlama\cplusplus\Downloader\Downloader\Source.c(16,41): warning C4024: 'CreateThread': different types for formal and actual parameter 5
-  Downloader.vcxproj -> E:\programlama\cplusplus\Downloader\x64\Debug\Downloader.exe
